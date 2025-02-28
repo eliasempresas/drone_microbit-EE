@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://eliasempresasbot.github.io/drone-ee/](https://eliasempresasbot.github.io/drone-ee/)
+> Abrir essa página em [https://eliasempresasbot.github.io/drone-EE/](https://eliasempresasbot.github.io/drone-EE/)
 
 ## Usar como extensão
 
