@@ -5,8 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "radio-broadcast": "*",
-        "IoTLoRaNode": "github:pisupply/pxt-iot-lora-node#v0.1.37"
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
